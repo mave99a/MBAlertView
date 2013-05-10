@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MBAlertView"
-  s.version      = "0.0.1"
+  s.version      = "1.0.1"
   s.summary      = "Fast, fun, and simple block-based alerts and HUDs."
   s.description  = <<-DESC
                     MBAlertView is a fun and simple block-based alert and HUD library for iOS, as seen in Notestand.
